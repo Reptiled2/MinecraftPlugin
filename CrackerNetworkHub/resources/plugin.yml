@@ -1,9 +1,0 @@
-name: CrackerNetworkCoreHub
-version: '${version}'
-main: me.reptiled.core.CrackerNetworkCore
-api-version: '1.20'
-commands:
-  vanish:
-    description: Spying on people, creepy
-    permission: vanish
-    aliases: [v]
